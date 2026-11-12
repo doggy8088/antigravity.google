@@ -1,0 +1,11 @@
+/* 繁中排版修正：防止標題最後一個字單獨換行（孤字） */
+h1, h2, h3, h4, h5, h6,
+.heading-1, .heading-2, .heading-3, .heading-4, .heading-5, .heading-6,
+[class*="heading-"], [class*="title"], [class*="headline"] {
+  text-wrap: pretty;
+}
+
+/* 主題切換器修正：讓隱藏的 select 可以接收點擊 */
+starlight-theme-select label select {
+  pointer-events: auto !important;
+}
