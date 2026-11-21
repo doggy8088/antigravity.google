@@ -1,0 +1,1 @@
+import{t as e}from"./gsap.Bi_c5vh2.js";document.addEventListener(`DOMContentLoaded`,()=>{let t=document.querySelector(`[data-pricing-page]`);t&&t.querySelectorAll(`[data-typed-header]`).forEach(t=>{t.helper&&(t.helper.initialize(),t.helper.startTyping(e.timeline()))})});
