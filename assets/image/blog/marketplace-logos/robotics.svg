@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 -960 960 960" role="img" aria-label="Antigravity Robotics">
+  <defs>
+    <linearGradient id="geminiBlueGrad" x1="0.5" y1="0.05" x2="0.5" y2="0.95">
+      <stop offset="0%" stop-color="#4e8df9"/>
+      <stop offset="45%" stop-color="#3a76f4"/>
+      <stop offset="100%" stop-color="#285ee6"/>
+    </linearGradient>
+    <linearGradient id="geminiBlueSpec" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#14369c" stop-opacity="0.18"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#1c44b8" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+  <g filter="url(#softShadow)">
+    <path d="M160-120V-320q0-33 23.5-56.5T240-400H720q33,0 56.5,23.5T800-320v200H160ZM360-440q-83,0-141.5-58.5T160-640t58.5-141.5T360-840H600q83,0 141.5,58.5T800-640T741.5-498.5T600-440H360ZM240-200H720V-320H240v120ZM360-520H600q50,0 85-35t35-85t-35-85t-85-35H360q-50,0-85,35t-35,85t35,85t85,35Zm28.5-91.5Q400-623 400-640t-11.5-28.5T360-680t-28.5,11.5T320-640t11.5,28.5T360-600t28.5-11.5Zm240,0Q640-623 640-640t-11.5-28.5T600-680t-28.5,11.5T560-640t11.5,28.5T600-600t28.5-11.5Z" fill="url(#geminiBlueGrad)"/>
+    <path d="M160-120V-320q0-33 23.5-56.5T240-400H720q33,0 56.5,23.5T800-320v200H160ZM360-440q-83,0-141.5-58.5T160-640t58.5-141.5T360-840H600q83,0 141.5,58.5T800-640T741.5-498.5T600-440H360ZM240-200H720V-320H240v120ZM360-520H600q50,0 85-35t35-85t-35-85t-85-35H360q-50,0-85,35t-35,85t35,85t85,35Zm28.5-91.5Q400-623 400-640t-11.5-28.5T360-680t-28.5,11.5T320-640t11.5,28.5T360-600t28.5-11.5Zm240,0Q640-623 640-640t-11.5-28.5T600-680t-28.5,11.5T560-640t11.5,28.5T600-600t28.5-11.5Z" fill="url(#geminiBlueSpec)"/>
+  </g>
+</svg>

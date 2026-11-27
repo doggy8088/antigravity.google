@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antigravity.gh.miniasp.com/sitemap.xml
